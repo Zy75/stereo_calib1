@@ -84,6 +84,7 @@ int main()
         cout << "Corners stored" << endl;
       }
       else {
+        cout << "failed" << endl;
         return -1;
       }
 
